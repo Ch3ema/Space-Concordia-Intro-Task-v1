@@ -6,6 +6,9 @@ CAN bus node built in KiCad. An STM32G030 microcontroller toggles an LED, commun
 
 The board takes 5V, GND, CANH and CANL from a 4-pin connector and implements a complete CAN node with power regulation, decoupling, bus termination and surge protection.
 
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/c9766e0a-2c51-46aa-9c16-4e3cf3652109" />
+
+
 ## Components
 
 | Ref | Part | Function |
